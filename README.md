@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm LoidherJaimes
 
-<!--
-**LoidherJaimes/LoidherJaimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems and Computer Engineering student passionate about software and game development. I love learning new technologies and collaborating on interesting projects.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++, Python.
+- Software Development.
+- Game Desing.
+
+## 💼 Experience
+
+- Media Player called "JL Media Player".
+  - General development (backend and frontend).
+
+## 🛠️ Technologies and Tools
+
+- Languages: C++
+- Frameworks: QT Creator, DevC++
+- Tools: Git, GitHub.
+
+## 📫 Connect with Me
+
+- [Your email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [Twitter](https://twitter.com/your_username)
+- [Your website or blog](https://yourwebsite.com)
+
+## 📈 GitHub Stats
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoidherJaimes&show_icons=true&theme=radical)
+
+## ⚡ Fun Facts
+
+- I'm a lover of video games and music.
+- Some of my hobbies are Programming, Playing Video Games and Listening to Music.
+
+---
+
+Thank you for visiting my profile! 😊
