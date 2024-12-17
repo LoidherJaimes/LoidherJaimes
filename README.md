@@ -21,8 +21,8 @@ I'm a Systems and Computer Engineering student passionate about software and gam
 
 ## 📫 Connect with Me
 
-- [loidherjaimes40@gmail.com](mailto:loidherjaimes40@gmail.com)
-- [Loidher Jaimes](https://www.linkedin.com/in/loidher-jaimes/)
+- [My email](mailto:loidherjaimes40@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/loidher-jaimes/)
 
 ## 📈 GitHub Stats
 
